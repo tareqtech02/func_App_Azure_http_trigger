@@ -30,6 +30,8 @@ az --version
 ## 🚀 Run Locally
 
 ```bash
+cd ~
+git clone XXXXXXXXXXXXXXXXXXXXXXXXXX
 cd ~/my-func-app
 func start
 ```
