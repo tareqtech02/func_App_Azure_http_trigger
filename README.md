@@ -31,7 +31,8 @@ az --version
 
 ```bash
 cd ~
-git clone XXXXXXXXXXXXXXXXXXXXXXXXXX
+mkdir ~/my-func-app
+git clone https://github.com/tareqtech02/func_App_Azure_http_trigger.git
 cd ~/my-func-app
 func start
 ```
