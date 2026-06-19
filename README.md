@@ -76,7 +76,7 @@ az functionapp create \
   --runtime-version 8 \
   --functions-version 4 \
   --name my-func-app-tareq \
-  --storage-account stmyfuncapp6456
+  --storage-account stmyfuncappXXXXXX
 ```
 
 ### Step 4 — Publish Your Code
